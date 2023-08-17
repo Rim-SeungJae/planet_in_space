@@ -1,6 +1,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/>
 # planet_in_space
-This repository is about the second assignment of SKKU's 2021 Introduction to Computer Graphics
+This repository is about the second assignment of SKKU's 2021 Introduction to Computer Graphics. This project implemented a program that uses OpenGL to render and automatically rotate the sphere. It also has a function of coloring the sphere or dragging the sphere with a mouse so that the user can rotate it directly.
+![cg2](https://github.com/dipreez/planet_in_space/assets/50349104/367612e0-e27b-49b0-88a0-a350c4ba4113)
 
 # Algorithms and data structures
 ## Sphere generation
